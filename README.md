@@ -11,8 +11,4 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/golujha9936/BanAllBots)
-
-# Credits
-* [Evo^xᴅ 𓆩🇮🇳𓆪](https://github.com/golujha9936/BanAllBots)
-* [EvoBro](https://t.me/EvoXpro) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tocsiop/BANALL)
