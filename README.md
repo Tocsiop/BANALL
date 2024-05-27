@@ -1,14 +1,9 @@
 # Ban All Bot
 
-- This is a Sudo Based Members Banning Bot 
+- THIS IS A PYTHON SCRIPT FOR REMOVE ALL MEMBER OF A TG GROUP AND CHANNELS WORKING IN BOTH
  
 # Commands
-- ping
-- banall
-- unbanall
-- kickall
-- leave 
-- restart
+- /start
+- /banall
 
-# Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tocsiop/BANALL)
+# RUN IN PYTHON IDLE OR ANY IDLE
