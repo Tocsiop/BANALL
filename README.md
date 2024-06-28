@@ -7,3 +7,4 @@
 - /banall
 
 # RUN IN PYTHON IDLE OR ANY IDLE
+# must install Pyrogram package.
